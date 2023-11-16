@@ -1,0 +1,47 @@
+.container{
+    padding: 350px;
+    position: relative;
+  }
+  .center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+button{
+    background-color: rgb(101, 101, 101);
+    height: 100px;
+    width: 300px;
+    font-weight: bold;
+    font-size: x-large;
+    margin-right: 10px;
+  }
+.buttons{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  transform: translate(15%, 0%);
+}
+label{
+  font-size: xx-large;
+  display: block;
+  text-align: center;
+  width: 500px;
+  transform: translate(47%, 45%);
+  padding: 10px;
+  color: white;
+  
+}
+textarea{
+  text-align: center;
+  font-size: xx-large;
+  padding: 100px;
+  vertical-align: middle;
+  background-color: rgb(101, 101, 101);
+  color: white;
+  
+}
+body{
+  overflow-y: hidden;
+}

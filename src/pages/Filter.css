@@ -1,0 +1,23 @@
+body{
+  overflow-x:hidden;
+}
+.container3{
+    padding: 30px;
+    transform: translate(10%, 0%);
+}
+.center3{
+    transform: translate(13%,0%);
+    width: 100%;
+}
+button{
+  background-color: rgb(101, 101, 101);
+  height: 100px;
+  width: 300px;
+  font-weight: bold;
+  transform: translate(-35%, 10%);
+  font-size: x-large;
+}
+.label2{
+  display: block;
+  transform: translate(53%, 0%);
+} 

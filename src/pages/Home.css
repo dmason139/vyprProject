@@ -1,0 +1,11 @@
+.display{
+    display: block;
+    transform: translate(7%, 10%);
+}
+.myText{
+    height: 100px;
+    justify-content: center;
+    vertical-align: middle;
+    text-align: center;
+    padding: 200px;
+}

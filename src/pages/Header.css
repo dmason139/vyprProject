@@ -1,0 +1,38 @@
+.links{
+    padding: 20px;
+    border: 1px solid black;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    align-content: center;
+}
+.home{
+    display: block;
+    transform: translate(0, 0);
+    justify-self: flex-start;
+    margin-left: 220px;
+    margin-right: 20px;
+}
+.code{
+    display: block;
+    transform: translate(0, 0);
+    justify-self: flex-start;
+    margin-right: 10px;
+}
+.filters{
+    display: block;
+    transform: translate(0, 0);
+    justify-self: flex-start;
+    margin-right: 10px;
+}
+img{
+    width: 100px;
+    height: 50px;
+}
+.view{
+    display: block;
+    transform: translate(0, 0);
+    justify-self: flex-start;
+    margin-right: 0px;
+}

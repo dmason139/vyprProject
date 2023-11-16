@@ -1,0 +1,30 @@
+body{
+    overflow-x:hidden;
+  }
+  .container2{
+      padding: 30px;
+  }
+  .center2{
+      transform: translate(13%,0%);
+      width: 100%;
+  }
+  button{
+    background-color: rgb(101, 101, 101);
+    height: 100px;
+    width: 300px;
+    font-weight: bold;
+    transform: translate(-35%, 10%);
+    font-size: x-large;
+  }
+  textarea{
+    text-align: center;
+    font-size: xx-large;
+    vertical-align: middle;
+    background-color: rgb(101, 101, 101);
+    color: white;
+    width: auto;
+  }
+  .labels{
+    display: block;
+    transform: translate(13%, 10%);
+  }
